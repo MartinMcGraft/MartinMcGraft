@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinMcGraft
 - 👀 I’m interested in Games and Web Development
-- 🌱 I’m currently learning Multimedia Engenearing at ISEL
+- 🌱 I’m currently learning Computer and Multimedia Engineering at ISEL
 
 <!---
 MartinMcGraft/MartinMcGraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
